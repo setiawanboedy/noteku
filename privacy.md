@@ -6,7 +6,7 @@ This Privacy Policy describes how your personal information is collected, used, 
 
 When you use our App, we may collect certain information automatically, including:
 
-**Usage Information**: We collect information about your interactions with the App, such as the features you use, the time and duration of your usage, and other usage statistics.
+**Usage Information**: We do not collect information about your interactions with the App, such as the features you use, the time and duration of your usage, and other usage statistics. Your privacy is our priority, and we are committed to ensuring that your personal information remains protected.
 **Personal Information**: We do not knowingly collect any personal information from users of our App. Personal information such as name, email address, or phone number is not required to use our App.
 
 **How We Use Your Information**
